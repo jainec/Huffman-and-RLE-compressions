@@ -26,7 +26,7 @@ Esta é uma implementação em C dos algoritmos de compressão Huffman e RLE apl
 		9 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF 0xFF
 		4 0xFA 0xFA 0xC1 0xC1
 
-# Formato da sada
+# Formato da saída
 
 > Cada linha da saída gerada deve conter o algoritmo utilizado na compressão dos dados (RLE ou HUF) e o valor da taxa de compressão é um número real com duas casas decimais de precisão.
 
