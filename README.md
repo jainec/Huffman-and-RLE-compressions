@@ -13,9 +13,13 @@ Esta é uma implementação em C dos algoritmos de compressão Huffman e RLE apl
 # Formato de entrada
 
 > [#Quantidade de sequências]
+
 > [#T1] [B1 . . . Bn]
+
 .
+
 .
+
 > [#TN ] [BN . . . BNm]
 
 **Exemplo:**
